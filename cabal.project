@@ -1,3 +1,5 @@
 packages: ./
 allow-newer:
-  fast-builder:base
+  fast-builder:base,
+  barbies-th:base,
+  barbies-th:template-haskell
